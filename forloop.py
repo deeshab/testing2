@@ -12,7 +12,7 @@ for i in s0:
 
 #Q2c
 for i in range(len(s0)):
-	print(i+1, s0[i])
+	print(i, s0[i])
 
 #Q2d
 for i in range(len(s1)):
